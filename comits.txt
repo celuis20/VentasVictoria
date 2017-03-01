@@ -1,0 +1,29 @@
+commit 0a32c32d6c0ed675a64a062bca3309763df64e79
+Author: cesar <celuis20@hotmail.com>
+Date:   Wed Feb 22 09:28:09 2017 -0500
+
+    prueba completa
+
+commit 70b0a4d1261ba30e3b9f93e93feedca3b153bcbc
+Author: cesar <celuis20@hotmail.com>
+Date:   Wed Feb 22 09:22:39 2017 -0500
+
+    22/02/2017
+
+commit e59cc7793292f0863c9541502655bdc25d262a5d
+Author: cesar <celuis20@hotmail.com>
+Date:   Tue Feb 21 09:54:39 2017 -0500
+
+    puse prueba
+
+commit f06a8d4252cd185024a8b8ddd6bb32514dce1ac5
+Author: cesar <celuis20@hotmail.com>
+Date:   Tue Feb 21 09:50:45 2017 -0500
+
+    agregamos mas comandos
+
+commit 7ad7c1791a69beec2309f089204fdac7be746b33
+Author: cesar <celuis20@hotmail.com>
+Date:   Fri Feb 17 11:38:09 2017 -0500
+
+    prueba
